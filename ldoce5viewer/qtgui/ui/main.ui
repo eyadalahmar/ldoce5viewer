@@ -179,7 +179,7 @@
               </size>
              </property>
              <property name="layoutDirection">
-              <enum>Qt::LeftToRight</enum>
+              <enum>Qt::RightToLeft</enum>
              </property>
              <property name="frame">
               <bool>true</bool>
